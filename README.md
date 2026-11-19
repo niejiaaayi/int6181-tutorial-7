@@ -19,3 +19,7 @@ Inject some bugs to the implementations of the source files and open a pull requ
 ## Expected Results
 
 ![Expected Result](expected_results.png)
+
+## Continuous integration
+
+The unit tests in this repository run automatically on every pull request via GitHub Actions (".github/workflows/tests.yml").
